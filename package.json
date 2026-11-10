@@ -1,0 +1,1 @@
+{"description":"Single-file proxy node (xray VLESS+WS + cloudflared fixed tunnel + Nezha agent) for OneBit Deploy","engines":{"node":">=18"},"license":"UNLICENSED","main":"index.js","name":"onebit-node","private":true,"scripts":{"start":"node index.js"},"version":"1.0.0"}
